@@ -10,7 +10,7 @@
    - 6 Resistores – Resistores para limitar a corrente em cada canal de cor dos LEDs (vermelho, verde e azul).
    - Fios Jumper – Utilizados para realizar as conexões entre o Arduino, a protoboard e os LEDs.
 ## montagem do circuito
-  ![imagem do circuito](pisca pisca.png)
+  ![imagem do circuito](pisca_pisca.png)
 ## Conexões:
     ## Arduino:
 
